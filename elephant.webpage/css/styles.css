@@ -1,0 +1,13 @@
+h1{
+    color: rgb(179, 255, 0);
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background: sandybrown;
+    line-height: 10px;
+}
