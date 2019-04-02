@@ -70,4 +70,36 @@
  
  .nav {
    float: right;
+   
  }
+ 
+ body{
+  width: 100%;
+  height: 100%;
+  color:grey;
+  
+  background-image: url(https://images.pexels.com/photos/770562/pexels-photo-770562.jpeg?cs=srgb&dl=alternative-alternative-energy-blades-770562.jpg&fm=jpg),
+      /* url(https://images.pexels.com/photos/95719/pexels-photo-95719.jpeg?cs=srgb&dl=cables-clouds-danger-95719.jpg&fm=jpg), */
+       linear-gradient(to right, rgb(248, 248, 248), rgba(255, 255, 255, 0));
+  background-repeat: no-repeat,
+      no-repeat,
+      no-repeat;
+  background-position: bottom right,
+      left,
+      right;
+ background-size: cover;
+ color:black;
+ opacity: 0.7%;
+
+      
+} 
+.footer{
+  background-color:black;
+  font-family: 'Times New Roman', Times, serif;
+ 
+  text-decoration:white;
+  /* font-weight: bold; */
+  font-display: inherit;
+  color:white;
+}
+
